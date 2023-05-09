@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/transformers
+rouge-score == 0.1.2 
+sentence-transformers == 2.2.2 
+sentencepiece == 0.1.98 
+tokenizers == 0.13.3 
+evaluate == 0.4.0
+datasets == 2.11.0
+nltk == 3.8.1
+accelerate == 0.18.0
